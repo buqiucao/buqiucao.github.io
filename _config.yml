@@ -104,3 +104,24 @@ theme: yilia
 deploy:
   type: git
   repo: https://buqiucao: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@github.com/buqiucao/buqiucao.github.io.git
+  
+
+# yilia配置
+jsonContent:
+    meta: false
+    pages: false
+    posts:
+      title: true
+      date: true
+      path: true
+      text: false
+      raw: false
+      content: false
+      slug: false
+      updated: false
+      comments: false
+      link: false
+      permalink: false
+      excerpt: false
+      categories: false
+      tags: true
