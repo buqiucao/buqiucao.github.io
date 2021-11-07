@@ -103,8 +103,8 @@ theme: yilia
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://buqiucao: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@github.com/buqiucao/buqiucao.github.io.git
-  branch: main
+  repo: https://github.com/buqiucao/buqiucao.github.io.git
+  branch: master
   
 
 # yilia配置
