@@ -104,7 +104,7 @@ theme: yilia
 deploy:
   type: git
   repo: https://github.com/buqiucao/buqiucao.github.io.git
-  branch: main
+  branch: master
   
 
 # yilia配置
