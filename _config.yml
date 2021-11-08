@@ -3,11 +3,11 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: hexoblog
+title: buqiucaoblog
 subtitle: ''
 description: ''
 keywords:
-author: sea
+author: buqiucao
 language: en
 timezone: ''
 
@@ -104,7 +104,7 @@ theme: yilia
 deploy:
   type: git
   repo: https://github.com/buqiucao/buqiucao.github.io.git
-  branch: master
+  branch: main
   
 
 # yilia配置

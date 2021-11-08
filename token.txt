@@ -1,6 +1,5 @@
 # token
-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
-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
+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
 
 #  把token直接添加远程仓库链接中，这样就可以避免同一个仓库每次提交代码都要输入token了：
 git remote set-url origin https://<your_token>@github.com/<USERNAME>/<REPO>.git
